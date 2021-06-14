@@ -122,8 +122,6 @@ The map below displays 200 stations with the highest number of rides started. Th
 
 <img src="Figures/Rplot-12-start-station-map.png" height=300>
 
-[Click here](20210613-Cyclistic-Station-Map.html) for an interactive version of the map.
-
 As shown on the map, members are clustered further inland, beginning their rides on docking stations located within the city. Casual riders, on the other hand, tend to start their rides on stations closer to the coastal area.
 
 # Conclusion
